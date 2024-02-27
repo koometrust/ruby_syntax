@@ -4,7 +4,7 @@ class Car
 
     def initialize( make, mileage)
       @make = make
-      @mileage = mileage
+      @mileage = mileage 
     end
 
     def record_car()
